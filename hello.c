@@ -3,7 +3,7 @@
 int main(void){
     //string get_string=(jcpjv)
  int x=19;
- printf("hello,d%\n",x);
+ printf("hello,%d\n",x);
 
 
 }
