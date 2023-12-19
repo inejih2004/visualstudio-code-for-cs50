@@ -2,8 +2,8 @@
 #include<cs50.h>
 int main(void){
     //string get_string=(jcpjv)
- int x=19;
- printf("hello,%d\n",x);
+ float x=4,5;
+ printf("hello,%i\n",x);
 
 
 }
